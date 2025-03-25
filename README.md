@@ -1,9 +1,7 @@
-Projeto para um aplicativo estilo gympass, implementado em Java. Baseado na implementação feita em JavaScript nas aulas da [rocketseat](https://github.com/rocketseat-education/ignite-nodejs-03-api-solid-nodejs).
+Projeto para um aplicativo estilo gympass, implementado em Java. Baseado na implementação feita em TypeScript em aulas da [rocketseat](https://github.com/rocketseat-education/ignite-nodejs-03-api-solid-nodejs).
 
 Disciplina: DIM0501 - BOAS PRÁTICAS DE PROGRAMAÇÃO  
 Assuntos escolhidos: Clean Code, Programação Defensiva, Teste de Software
-
-Participante: Vinícius César
 
 ## RFs (Requisitos funcionais)
 
